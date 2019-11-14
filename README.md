@@ -4,3 +4,5 @@
 - Tensorflow 1.9
 - pandas
 - sklearn
+- gdown
+- requests
